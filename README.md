@@ -77,3 +77,8 @@ Use WebP format and lazy loading for images. Example:
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Follow Me
+
+Follow me on [X](https://x.com/kregenrek)
