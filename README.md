@@ -25,8 +25,8 @@ npx degit regenrek/nuxt4-starter-clean my-nuxt4-project
 
 # or classic
 git clone --depth 1 git@github.com:regenrek/nuxt4-starter-clean.git <my-project-name>
-    cd <my-project-name>
-    pnpm install
+cd <my-project-name>
+pnpm install
 ```
 
 ## Usage
