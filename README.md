@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 
 ## Follow Me
 
-Follow me on [X](https://x.com/kregenrek)
+Follow me on X [@kregenrek](https://x.com/kregenrek)
