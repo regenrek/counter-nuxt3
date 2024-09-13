@@ -17,8 +17,8 @@ Welcome to the Nuxt 4 Starter project! This starter template is designed to help
 To get started, clone the repository and install the dependencies:
 
 ```bash
-https://github.com/regenrek/nuxt4-starter-clean
-cd nuxt-4-starter
+git clone --depth 1 git@github.com:regenrek/nuxt4-starter-clean.git <my-project-name>
+cd <my-project-name>
 pnpm install
 ```
 
