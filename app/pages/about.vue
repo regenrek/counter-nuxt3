@@ -1,8 +1,5 @@
 <script setup lang="ts">
-const { data: page } = await useAsyncData('about', () => queryContent('/about.yml').findOne())
-
-
-console.log(page.value)
+const { data: page } = await useAsyncData('about', () => queryContent('/about').findOne())
 
 useSeoMeta({
   title: page.value.title,
