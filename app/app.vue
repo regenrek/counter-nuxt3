@@ -20,11 +20,9 @@ useSeoMeta({
 
 <template>
   <AppHeader />
-  <UMain>
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
-  </UMain>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 
   <AppFooter />
 
