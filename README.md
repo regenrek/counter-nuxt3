@@ -1,4 +1,4 @@
-# ✨ Nuxt 4 Starter Clean and Minimal ✨
+# ✨ Counter ✨
 
 Welcome to the Nuxt 4 Starter project! This starter template is designed to help you quickly set up a Nuxt 4 application with essential features and best practices.
 
@@ -85,8 +85,8 @@ Use WebP format and lazy loading for images. Example:
 
 This project is licensed under the MIT License.
 
-
 ## Follow Me
 
 Follow me on X [@kregenrek](https://x.com/kregenrek)
+
 # counter-nuxt3
