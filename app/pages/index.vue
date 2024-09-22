@@ -15,6 +15,7 @@ useSeoMeta({
     <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
       <h1 class="text-4xl font-bold mb-8 text-gray-800">{{ page.title }}</h1>
       <Counter />
+      <Countdown />
     </div>
   </div>
 </div>
